@@ -1,2 +1,2 @@
-# Dubnium.exe
-My new malware in C++. For educational purposes only!
+# Dubnium
+C++ GDI trojan by yedb0y33k
